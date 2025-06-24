@@ -1,0 +1,58 @@
+[
+  {
+    "title": "TrendPulse: Agregador de Tendências",
+    "description": "O TrendPulse é um projeto que agrega conteúdo de diversas plataformas (YouTube e Reddit) e o disponibiliza por meio de uma API RESTful",
+    "github": "https://github.com/onezer00/minhas-thrends",
+    "demo": "",
+    "status": "Offline",
+    "techs": ["Python", "Celery", "Redis", "MySQL", "Flower"]
+  },
+  {
+    "title": "Exemplos-Java",
+    "description": "Neste repositório, você encontrará exemplos práticos em Java para ajudá-lo a aprender e entender os conceitos básicos da linguagem. Vamos começar com alguns exemplos simples.",
+    "github": "https://github.com/onezer00/Exemplos-Java",
+    "demo": "",
+    "status": "offline",
+    "techs": ["Java"]
+  },
+  {
+    "title": "Aplicação de raspagem de dados",
+    "description": "Esta aplicação usa Selenium e BeautifulSoup para raspar dados de uma tabela em um site e exportá-los para uma planilha do Excel. O site em questão é o Portal da Transparência, que contém informações sobre os gastos públicos do governo federal.",
+    "github": "https://github.com/onezer00/raspagem-de-dados",
+    "demo": "",
+    "status": "offline",
+    "techs": ["Python", "Selenium", "BeautifulSoup", "Pandas"]
+  },
+  {
+    "title": "Python Playlist Download",
+    "description": "This app was built to facilitate youtube music download using the youtube_dl module.",
+    "github": "https://github.com/onezer00/python-playlist-download",
+    "demo": "",
+    "status": "offline",
+    "techs": ["Python", "youtube_dl"]
+  },
+  {
+    "title": "Binary to Decimal",
+    "description": "Este projeto tem como intuito desenvolver aprendizado, assim como disponibilizar um ambiente prático para conversão de código binário em números decimais.",
+    "github": "https://github.com/onezer00/binary-to-decimal",
+    "demo": "https://binary-to-decimal-seven.vercel.app",
+    "status": "online",
+    "techs": ["JavaScript", "SCSS", "CSS"]
+  },
+  {
+    "title": "Contador Next App",
+    "description": "Aplicação criada para estudar conceitos do Next.js e aplicar lógica de contagem.",
+    "github": "https://github.com/onezer00/contador-next-app",
+    "demo": "https://contador-next-app.vercel.app/",
+    "status": "online",
+    "techs": ["JavaScript", "CSS", "SCSS"]
+  },
+  {
+    "title": "Abridor de Portas",
+    "description": "Aplicação criada para estudos conceituais de redes, usando socket.io com C++",
+    "github": "https://github.com/onezer00/abridor-de-portas",
+    "demo": "",
+    "status": "offline",
+    "techs": ["C++"]
+  }
+]

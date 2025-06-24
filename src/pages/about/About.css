@@ -1,0 +1,78 @@
+/* Timeline vertical */
+.relative.pl-8 {
+  position: relative;
+  padding-left: 2rem; /* alinhamento com a linha */
+}
+.relative.pl-8 .absolute.left-4 {
+  position: absolute;
+  left: 1rem;
+  top: 0;
+  width: 0.25rem;
+  height: 100%;
+  background-color: theme('colors.zinc.300');
+}
+.dark .relative.pl-8 .absolute.left-4 {
+  background-color: theme('colors.zinc.700');
+}
+
+/* Marcadores da timeline */
+.relative .absolute.-left-\[1\.5px\] {
+  position: absolute;
+  left: -0.09375rem; /* -1.5px */
+  top: 0.5rem;       /* alinhado no meio do item */
+}
+.relative .absolute.w-8.h-8 {
+  width: 2rem;
+  height: 2rem;
+  background-color: theme('colors.indigo.600');
+  border-radius: 9999px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+/* Badges de habilidades */
+.badge {
+  @apply px-4 py-2 bg-indigo-100 dark:bg-indigo-800 text-indigo-700 dark:text-indigo-200 rounded-full font-semibold shadow-sm transition transform;
+}
+.badge:hover {
+  @apply scale-105 shadow-lg;
+}
+
+/* Títulos animados */
+.motion-title {
+  @apply text-3xl font-semibold text-indigo-600 dark:text-indigo-400 mb-6;
+}
+.motion-subtitle {
+  @apply text-lg text-zinc-700 dark:text-zinc-200 leading-relaxed mb-8;
+}
+
+/* Itens da timeline */
+.timeline-item {
+  @apply mb-12 flex items-start space-x-4;
+}
+
+/* Ícones dos marcadores */
+.timeline-item-icon {
+  @apply relative;
+}
+.timeline-item-icon > div {
+  @apply absolute -left-[1.5px] top-2 w-8 h-8 bg-indigo-600 rounded-full flex items-center justify-center text-white;
+}
+
+/* Lista de valores */
+.values-list li {
+  @apply flex items-start space-x-2 text-zinc-700 dark:text-zinc-200;
+}
+.values-list li span:first-child {
+  @apply text-indigo-500;
+}
+
+/* Certificações */
+.cert-grid {
+  @apply grid grid-cols-2 sm:grid-cols-3 gap-6;
+}
+.cert-card {
+  @apply p-4 border border-zinc-200 dark:border-zinc-700 rounded-lg cursor-pointer transition transform hover:scale-105 shadow-sm;
+}
