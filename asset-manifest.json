@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portifolio-frontend/static/css/main.6a845502.css",
+    "main.js": "/portifolio-frontend/static/js/main.0c0468cc.js",
+    "service-worker.js": "/portifolio-frontend/service-worker.js",
+    "index.html": "/portifolio-frontend/index.html",
+    "main.6a845502.css.map": "/portifolio-frontend/static/css/main.6a845502.css.map",
+    "main.0c0468cc.js.map": "/portifolio-frontend/static/js/main.0c0468cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a845502.css",
+    "static/js/main.0c0468cc.js"
+  ]
+}
