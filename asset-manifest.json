@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portifolio-frontend/static/css/main.6a845502.css",
-    "main.js": "/portifolio-frontend/static/js/main.0c0468cc.js",
-    "service-worker.js": "/portifolio-frontend/service-worker.js",
-    "index.html": "/portifolio-frontend/index.html",
-    "main.6a845502.css.map": "/portifolio-frontend/static/css/main.6a845502.css.map",
-    "main.0c0468cc.js.map": "/portifolio-frontend/static/js/main.0c0468cc.js.map"
+    "main.css": "/portifolio-oner/static/css/main.6a845502.css",
+    "main.js": "/portifolio-oner/static/js/main.eee57ffc.js",
+    "service-worker.js": "/portifolio-oner/service-worker.js",
+    "index.html": "/portifolio-oner/index.html",
+    "main.6a845502.css.map": "/portifolio-oner/static/css/main.6a845502.css.map",
+    "main.eee57ffc.js.map": "/portifolio-oner/static/js/main.eee57ffc.js.map"
   },
   "entrypoints": [
     "static/css/main.6a845502.css",
-    "static/js/main.0c0468cc.js"
+    "static/js/main.eee57ffc.js"
   ]
 }
