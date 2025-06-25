@@ -1,5 +1,13 @@
 [
   {
+    "title": "Credly Worker",
+    "description": "Backend para extração e disponibilização de badges da Credly via API REST. A API está deployada com Cloudflare Workers para uso deste portifólio. Fique livre para fazer um fork e modifica-lo como quiser.",
+    "github": "https://github.com/onezer00/credly-worker",
+    "demo": "https://onezer00.github.io/portifolio-oner/about",
+    "status": "online",
+    "techs": ["JavaScript", "Cloudflare"]
+  },
+  {
     "title": "TrendPulse: Agregador de Tendências",
     "description": "O TrendPulse é um projeto que agrega conteúdo de diversas plataformas (YouTube e Reddit) e o disponibiliza por meio de uma API RESTful",
     "github": "https://github.com/onezer00/minhas-thrends",

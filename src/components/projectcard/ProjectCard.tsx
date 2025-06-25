@@ -30,6 +30,7 @@ const techColors: Record<string, string> = {
   youtube_dl: 'bg-gray-100 text-gray-700 dark:bg-gray-400 dark:text-gray-900',
   flower: 'bg-purple-100 text-purple-700 dark:bg-purple-400 dark:text-purple-900',
   vercel: 'bg-black text-white',
+  cloudflare: 'bg-orange-200 text-orange-800 dark:bg-orange-400 dark:text-orange-900',
 };
 
 const ProjectCard: React.FC<Project> = ({ title, description, github, demo, status, techs }) => (
