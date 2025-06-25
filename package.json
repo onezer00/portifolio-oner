@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "proxy": "https://credly-worker.oner-backend.workers.dev/api/badges",
+  "homepage": "https://onezer00.github.io/portifolio-oner",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "axios": "^1.10.0",
@@ -26,7 +27,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +54,7 @@
     "@types/react-dom": "^19.1.6",
     "autoprefixer": "^10.4.21",
     "concurrently": "^7.6.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6"
   }
 }
