@@ -1,5 +1,13 @@
 [
   {
+    "title": "Magic Clear",
+    "description": "O Magic Clear é um organizador de disco moderno, visual e eficiente, feito para entusiastas de TI. Visualize, organize e limpe seu HD com poder e estilo! Este projeto é o frontend da aplicação, desenvolvido com React, Vite e TypeScript, utilizando as melhores práticas de UI/UX e performance.",
+    "github": "https://github.com/onezer00/magic-clear/tree/main",
+    "demo": "https://magic-clear.vercel.app",
+    "status": "online",
+    "techs": ["React", "Vite", "TypeScript", "TailwindCSS"]
+  },
+  {
     "title": "Credly Worker",
     "description": "Backend para extração e disponibilização de badges da Credly via API REST. A API está deployada com Cloudflare Workers para uso deste portifólio. Fique livre para fazer um fork e modifica-lo como quiser.",
     "github": "https://github.com/onezer00/credly-worker",
