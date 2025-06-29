@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portifolio-oner/static/css/main.8a269304.css",
-    "main.js": "/portifolio-oner/static/js/main.245eaa5a.js",
+    "main.js": "/portifolio-oner/static/js/main.e7db1739.js",
     "service-worker.js": "/portifolio-oner/service-worker.js",
     "index.html": "/portifolio-oner/index.html",
     "main.8a269304.css.map": "/portifolio-oner/static/css/main.8a269304.css.map",
-    "main.245eaa5a.js.map": "/portifolio-oner/static/js/main.245eaa5a.js.map"
+    "main.e7db1739.js.map": "/portifolio-oner/static/js/main.e7db1739.js.map"
   },
   "entrypoints": [
     "static/css/main.8a269304.css",
-    "static/js/main.245eaa5a.js"
+    "static/js/main.e7db1739.js"
   ]
 }
