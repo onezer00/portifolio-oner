@@ -1,9 +1,9 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+const SERVICE_ID = process.env.SERVICE_ID || '';
+const TEMPLATE_ID = process.env.TEMPLATE_ID || '';
+const PUBLIC_KEY = process.env.PUBLIC_KEY || '';
 
 const Contact: React.FC = () => {
   const formRef = useRef<HTMLFormElement>(null);
