@@ -43,6 +43,7 @@ Desktop.ini
 .env.*
 *.local
 *.log
+venv/
 
 # Build Vite
 /dist
